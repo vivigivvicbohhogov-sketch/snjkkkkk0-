@@ -1,0 +1,6 @@
+{
+  "name": "بوابة نتائج الطلاب",
+  "description": "واجهة عرض نتائج الامتحانات الوزارية للطلاب مع تفاصيل المواد والدرجات وطباعة النتيجة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
